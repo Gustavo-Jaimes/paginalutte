@@ -1,0 +1,14 @@
+@font-face{
+    font-family: SourceSansProBlack;
+    src:url(./fuentes/SourceSansPro-Black.otf);
+    font-family: SourceSansProBold;
+    src:url(./fuentes/SourceSansPro-Bold.otf);
+    font-family: SourceSansProLight;
+    src:url(./fuentes/SourceSansPro-Light.otf);
+    font-family: TexgyretermesItalica;
+    src:url(./fuentes/texgyretermes-italic.otf);
+    font-family: TexgyretermesBold;
+    src:url(./fuentes/texgyretermes-bold.otf);
+}
+
+
